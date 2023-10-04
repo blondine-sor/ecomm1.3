@@ -5,10 +5,9 @@
     <fieldset>
         
         <label for="firstName">FirstName</label>
-        <input id="firstName" name="nom" value="">
+        <input type="text" id="fName" name="fname" value="">
 </br>
-        <label for="surName">Surname</label>
-        <input id="surName" name="prenom" value="">
+        <input type="submit" >
     </fieldset>
  </form>
 
